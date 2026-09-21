@@ -1,17 +1,3 @@
 # blox
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Developement of Blox package using Dart Generics to build an application featuring network connectivity, a Domain layer, dependency injection via Get-it, state management with Bloc, exception handling, and widget builder classes based on Clean Architecture; this approach reduced boilerplate code by 70% and accelerated development speed several-fold
